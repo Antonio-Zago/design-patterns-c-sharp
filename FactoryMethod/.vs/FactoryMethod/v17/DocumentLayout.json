@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\teste\\vendacelta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\teste\\vendacelta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\teste\\celta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\teste\\celta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\teste\\corsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\teste\\corsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\teste\\vendacorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\teste\\vendacorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\teste\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\teste\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\teste\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\teste\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\concreteproduct1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\concreteproduct1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\concretecreator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\concretecreator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\factorymethod\\factorymethod\\concreteproduct2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D21ED8-0F1F-4433-AB28-C1366975740C}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\concreteproduct2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendaCorsa.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\VendaCorsa.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Teste\\VendaCorsa.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\VendaCorsa.cs",
+              "RelativeToolTip": "FactoryMethod\\Teste\\VendaCorsa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:14:55.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendaCelta.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\VendaCelta.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Teste\\VendaCelta.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\VendaCelta.cs",
+              "RelativeToolTip": "FactoryMethod\\Teste\\VendaCelta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:14:47.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Celta.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\Celta.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Teste\\Celta.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\Celta.cs",
+              "RelativeToolTip": "FactoryMethod\\Teste\\Celta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:13:38.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Corsa.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\Corsa.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Teste\\Corsa.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\Corsa.cs",
+              "RelativeToolTip": "FactoryMethod\\Teste\\Corsa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:13:32.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\ICar.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Teste\\ICar.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\ICar.cs",
+              "RelativeToolTip": "FactoryMethod\\Teste\\ICar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:11:45.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\Factory.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Teste\\Factory.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Teste\\Factory.cs",
+              "RelativeToolTip": "FactoryMethod\\Teste\\Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:11:21.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Program.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "FactoryMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:34:36.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConcreteProduct2.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\ConcreteProduct2.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\ConcreteProduct2.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\ConcreteProduct2.cs",
+              "RelativeToolTip": "FactoryMethod\\ConcreteProduct2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:42:31.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConcreteProduct1.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\ConcreteProduct1.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\ConcreteProduct1.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\ConcreteProduct1.cs",
+              "RelativeToolTip": "FactoryMethod\\ConcreteProduct1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:41:49.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConcreteCreator2.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\ConcreteCreator2.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\ConcreteCreator2.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\ConcreteCreator2.cs",
+              "RelativeToolTip": "FactoryMethod\\ConcreteCreator2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:44:19.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Creator.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Creator.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\FactoryMethod\\FactoryMethod\\Creator.cs",
+              "RelativeToolTip": "FactoryMethod\\Creator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:43:19.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
