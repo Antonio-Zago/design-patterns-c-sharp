@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Projetos\\design-patterns-c-sharp\\padroes-projetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02878820-82AC-43A7-8E28-D1CD5FAB4D58}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\padroes-projetos\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02878820-82AC-43A7-8E28-D1CD5FAB4D58}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02878820-82AC-43A7-8E28-D1CD5FAB4D58}|FactoryMethod\\FactoryMethod.csproj|d:\\projetos\\design-patterns-c-sharp\\padroes-projetos\\factorymethod\\concretecreator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02878820-82AC-43A7-8E28-D1CD5FAB4D58}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\concretecreator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37F4DB86-CB28-4FEA-A60D-884F0070A5CB}|Builder\\Builder.csproj|d:\\projetos\\design-patterns-c-sharp\\padroes-projetos\\builder\\clientebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F4DB86-CB28-4FEA-A60D-884F0070A5CB}|Builder\\Builder.csproj|solutionrelative:builder\\clientebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConcreteCreator1.cs",
-              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\padroes-projetos\\FactoryMethod\\ConcreteCreator1.cs",
-              "RelativeDocumentMoniker": "FactoryMethod\\ConcreteCreator1.cs",
-              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\padroes-projetos\\FactoryMethod\\ConcreteCreator1.cs",
-              "RelativeToolTip": "FactoryMethod\\ConcreteCreator1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T17:42:16.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\padroes-projetos\\FactoryMethod\\Program.cs",
-              "RelativeDocumentMoniker": "FactoryMethod\\Program.cs",
-              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\padroes-projetos\\FactoryMethod\\Program.cs",
-              "RelativeToolTip": "FactoryMethod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Title": "ClienteBuilder.cs",
+              "DocumentMoniker": "D:\\Projetos\\design-patterns-c-sharp\\padroes-projetos\\Builder\\ClienteBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\ClienteBuilder.cs",
+              "ToolTip": "D:\\Projetos\\design-patterns-c-sharp\\padroes-projetos\\Builder\\ClienteBuilder.cs",
+              "RelativeToolTip": "Builder\\ClienteBuilder.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T17:41:54.243Z",
+              "WhenOpened": "2026-04-08T18:33:58.722Z",
               "EditorCaption": ""
             }
           ]

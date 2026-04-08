@@ -12,6 +12,7 @@ namespace FactoryMethod
     {
         public abstract IProduct FactoryMethod();
 
+        //Operação em comum das classes que pretendo criar
         public string SomeOperation()
         {
             var product = FactoryMethod();
