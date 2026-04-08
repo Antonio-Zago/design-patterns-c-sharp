@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7DTZDppoVA=",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\design-patterns-c-sharp\\padroes-projetos\\FactoryMethod\\FactoryMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
